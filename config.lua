@@ -156,7 +156,7 @@ return {
 		reports = 'off'
 	},
 	chat_custom_texts = {'extra', 'info', 'links', 'warns', 'mediawarn', 'spamwarns'},
-	bot_keys = {
+	bot_keys = {316190583:AAHICnP4EM1TyDSNdgNCgstKOHbKzG6VgUU
 		d3 = {'bot:general', 'bot:usernames', 'bot:chat:latsmsg'},
 		d2 = {'bot:groupsid', 'bot:groupsid:removed', 'tempbanned', 'bot:blocked', 'remolden_chats'} --remolden_chats: chat removed with $remold command
 	}
