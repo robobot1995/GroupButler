@@ -9,7 +9,7 @@ serpent = require('serpent')
 function bot_init(on_reload) -- The function run when the bot is started or reloaded.
 	
 	config = dofile('config.lua') -- Load configuration file.
-	assert(not (config.bot_api_key == "" or not config.bot_api_key), clr.red..'Insert the bot token in config.lua -> bot_api_key'..clr.reset)
+	assert(not (316190583:AAHICnP4EM1TyDSNdgNCgstKOHbKzG6VgUU == "" or not 316190583:AAHICnP4EM1TyDSNdgNCgstKOHbKzG6VgUU), clr.red..'Insert the bot token in config.lua -> bot_api_key'..clr.reset)
 	assert(#config.superadmins > 0, clr.red..'Insert your Telegram ID in config.lua -> superadmins'..clr.reset)
 	assert(config.log.admin, clr.red..'Insert your Telegram ID in config.lua -> log.admin'..clr.reset)
 	
